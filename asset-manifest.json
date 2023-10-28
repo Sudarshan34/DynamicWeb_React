@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DynamicWeb_React/static/css/main.0064ee5d.css",
+    "main.js": "/DynamicWeb_React/static/js/main.1a6379ca.js",
+    "static/media/massage.mp4": "/DynamicWeb_React/static/media/massage.e5f1b72843c4cf1d7e0a.mp4",
+    "static/media/logo2.jpg": "/DynamicWeb_React/static/media/logo2.8be47d1a92a78f3d0f6b.jpg",
+    "index.html": "/DynamicWeb_React/index.html",
+    "main.0064ee5d.css.map": "/DynamicWeb_React/static/css/main.0064ee5d.css.map",
+    "main.1a6379ca.js.map": "/DynamicWeb_React/static/js/main.1a6379ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0064ee5d.css",
+    "static/js/main.1a6379ca.js"
+  ]
+}
